@@ -1,10 +1,10 @@
 # <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+ARTA M+S+T+O+R+E" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+ARTA+S+T+O+R+E" />
 </p>
 
 
 ```
-SCRIPTNYA EROR GA GUNA GA BISA BENERIN🥲
+ERORR MASIH TAHAP UJI BANG
 ```
 ```
 apt update -y && apt upgrade -y && apt install lolcat -y
